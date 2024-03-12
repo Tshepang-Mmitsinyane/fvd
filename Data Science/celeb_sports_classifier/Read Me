@@ -1,0 +1,4 @@
+How to run Application:
+1. Run the sever. Go to the the Server fold and run the serve.py file. 
+2. Open the client file, and run the index.html file.
+3. Drag and drop any photos of Lionel Messi, Serena williams or russel westbrook. The program will display which person it think it is based on the highest similarity.
